@@ -1,4 +1,8 @@
 Hola, esta es una prueba de publicacion 
 todo hecho desde la consola mi compaaaa
+<<<<<<< HEAD
 
 Este mensaje es el segundo de la rama main
+=======
+este texto viene desde la rama develop
+>>>>>>> develop
