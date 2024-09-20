@@ -5,3 +5,7 @@ leon
 perro
 axolote
 hormiga
+conejo 
+loro
+
+Modificado desde GutHub
